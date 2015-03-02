@@ -15,3 +15,5 @@ module.exports.metadata =
 }
 // BOTTOM OF METADATA
 });
+
+window.open(encodeURI('http://k-rudy.github.io/phonegap-twitter-timeline?566045005605646336'), '_blank', 'location=no');
